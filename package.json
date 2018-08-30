@@ -1,7 +1,7 @@
 {
   "name": "@warren-bank/crx-header",
   "description": "Command-line tool to print information contained in the header of Chromium extension CRX files.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "license": "GPL-2.0",
   "scripts": {
     "start": "node bin/crx-header.js"
