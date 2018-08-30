@@ -1,4 +1,4 @@
-### [CRX header](https://github.com/warren-bank/crx-header)
+### [CRX header](https://github.com/warren-bank/crx-header/tree/perl)
 
 Prints information contained in the header of Chromium extension [CRX files](https://chromium.googlesource.com/chromium/src.git/+/62.0.3178.1/chrome/common/extensions/docs/templates/articles/crx.html).
 
